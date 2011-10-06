@@ -3,7 +3,7 @@ PATH
   specs:
     spectator-validates_email (0.0.6)
       actionpack (>= 3.1.0)
-      activemodel (= 3.1.0)
+      activemodel (>= 3.1.0)
 
 GEM
   remote: http://rubygems.org/
